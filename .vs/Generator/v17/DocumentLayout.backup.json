@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\szmok\\source\\repos\\Generator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB39484-3DA9-4C91-BC85-12CC02FC9B7D}|Generator\\Generator.csproj|c:\\users\\szmok\\source\\repos\\generator\\generator\\viewmodel\\createquizviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB39484-3DA9-4C91-BC85-12CC02FC9B7D}|Generator\\Generator.csproj|solutionrelative:generator\\viewmodel\\createquizviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB39484-3DA9-4C91-BC85-12CC02FC9B7D}|Generator\\Generator.csproj|c:\\users\\szmok\\source\\repos\\generator\\generator\\model\\dealwithfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB39484-3DA9-4C91-BC85-12CC02FC9B7D}|Generator\\Generator.csproj|solutionrelative:generator\\model\\dealwithfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB39484-3DA9-4C91-BC85-12CC02FC9B7D}|Generator\\Generator.csproj|c:\\users\\szmok\\source\\repos\\generator\\generator\\model\\cezarencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB39484-3DA9-4C91-BC85-12CC02FC9B7D}|Generator\\Generator.csproj|solutionrelative:generator\\model\\cezarencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB39484-3DA9-4C91-BC85-12CC02FC9B7D}|Generator\\Generator.csproj|c:\\users\\szmok\\source\\repos\\generator\\generator\\viewmodel\\selectquizviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB39484-3DA9-4C91-BC85-12CC02FC9B7D}|Generator\\Generator.csproj|solutionrelative:generator\\viewmodel\\selectquizviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB39484-3DA9-4C91-BC85-12CC02FC9B7D}|Generator\\Generator.csproj|c:\\users\\szmok\\source\\repos\\generator\\generator\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB39484-3DA9-4C91-BC85-12CC02FC9B7D}|Generator\\Generator.csproj|solutionrelative:generator\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB39484-3DA9-4C91-BC85-12CC02FC9B7D}|Generator\\Generator.csproj|c:\\users\\szmok\\source\\repos\\generator\\generator\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB39484-3DA9-4C91-BC85-12CC02FC9B7D}|Generator\\Generator.csproj|solutionrelative:generator\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB39484-3DA9-4C91-BC85-12CC02FC9B7D}|Generator\\Generator.csproj|c:\\users\\szmok\\source\\repos\\generator\\generator\\model\\questionscollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB39484-3DA9-4C91-BC85-12CC02FC9B7D}|Generator\\Generator.csproj|solutionrelative:generator\\model\\questionscollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB39484-3DA9-4C91-BC85-12CC02FC9B7D}|Generator\\Generator.csproj|c:\\users\\szmok\\source\\repos\\generator\\generator\\view\\choosequizwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5FB39484-3DA9-4C91-BC85-12CC02FC9B7D}|Generator\\Generator.csproj|solutionrelative:generator\\view\\choosequizwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB39484-3DA9-4C91-BC85-12CC02FC9B7D}|Generator\\Generator.csproj|c:\\users\\szmok\\source\\repos\\generator\\generator\\view\\choosequizwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB39484-3DA9-4C91-BC85-12CC02FC9B7D}|Generator\\Generator.csproj|solutionrelative:generator\\view\\choosequizwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB39484-3DA9-4C91-BC85-12CC02FC9B7D}|Generator\\Generator.csproj|c:\\users\\szmok\\source\\repos\\generator\\generator\\view\\createquizwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5FB39484-3DA9-4C91-BC85-12CC02FC9B7D}|Generator\\Generator.csproj|solutionrelative:generator\\view\\createquizwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB39484-3DA9-4C91-BC85-12CC02FC9B7D}|Generator\\Generator.csproj|c:\\users\\szmok\\source\\repos\\generator\\generator\\view\\createquizwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB39484-3DA9-4C91-BC85-12CC02FC9B7D}|Generator\\Generator.csproj|solutionrelative:generator\\view\\createquizwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB39484-3DA9-4C91-BC85-12CC02FC9B7D}|Generator\\Generator.csproj|c:\\users\\szmok\\source\\repos\\generator\\generator\\viewmodel\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB39484-3DA9-4C91-BC85-12CC02FC9B7D}|Generator\\Generator.csproj|solutionrelative:generator\\viewmodel\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB39484-3DA9-4C91-BC85-12CC02FC9B7D}|Generator\\Generator.csproj|c:\\users\\szmok\\source\\repos\\generator\\generator\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB39484-3DA9-4C91-BC85-12CC02FC9B7D}|Generator\\Generator.csproj|solutionrelative:generator\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB39484-3DA9-4C91-BC85-12CC02FC9B7D}|Generator\\Generator.csproj|c:\\users\\szmok\\source\\repos\\generator\\generator\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5FB39484-3DA9-4C91-BC85-12CC02FC9B7D}|Generator\\Generator.csproj|solutionrelative:generator\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB39484-3DA9-4C91-BC85-12CC02FC9B7D}|Generator\\Generator.csproj|c:\\users\\szmok\\source\\repos\\generator\\generator\\model\\iencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB39484-3DA9-4C91-BC85-12CC02FC9B7D}|Generator\\Generator.csproj|solutionrelative:generator\\model\\iencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB39484-3DA9-4C91-BC85-12CC02FC9B7D}|Generator\\Generator.csproj|c:\\users\\szmok\\source\\repos\\generator\\generator\\generator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5FB39484-3DA9-4C91-BC85-12CC02FC9B7D}|Generator\\Generator.csproj|solutionrelative:generator\\generator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB39484-3DA9-4C91-BC85-12CC02FC9B7D}|Generator\\Generator.csproj|c:\\users\\szmok\\source\\repos\\generator\\generator\\model\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB39484-3DA9-4C91-BC85-12CC02FC9B7D}|Generator\\Generator.csproj|solutionrelative:generator\\model\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB39484-3DA9-4C91-BC85-12CC02FC9B7D}|Generator\\Generator.csproj|c:\\users\\szmok\\source\\repos\\generator\\generator\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5FB39484-3DA9-4C91-BC85-12CC02FC9B7D}|Generator\\Generator.csproj|solutionrelative:generator\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SelectQuizViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\szmok\\source\\repos\\Generator\\Generator\\ViewModel\\SelectQuizViewModel.cs",
+              "RelativeDocumentMoniker": "Generator\\ViewModel\\SelectQuizViewModel.cs",
+              "ToolTip": "C:\\Users\\szmok\\source\\repos\\Generator\\Generator\\ViewModel\\SelectQuizViewModel.cs",
+              "RelativeToolTip": "Generator\\ViewModel\\SelectQuizViewModel.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwE0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T06:28:25.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateQuizViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\szmok\\source\\repos\\Generator\\Generator\\ViewModel\\CreateQuizViewModel.cs",
+              "RelativeDocumentMoniker": "Generator\\ViewModel\\CreateQuizViewModel.cs",
+              "ToolTip": "C:\\Users\\szmok\\source\\repos\\Generator\\Generator\\ViewModel\\CreateQuizViewModel.cs",
+              "RelativeToolTip": "Generator\\ViewModel\\CreateQuizViewModel.cs",
+              "ViewState": "AgIAACABAAAAAAAAAAAAAC0BAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:18:17.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DealWithFile.cs",
+              "DocumentMoniker": "C:\\Users\\szmok\\source\\repos\\Generator\\Generator\\Model\\DealWithFile.cs",
+              "RelativeDocumentMoniker": "Generator\\Model\\DealWithFile.cs",
+              "ToolTip": "C:\\Users\\szmok\\source\\repos\\Generator\\Generator\\Model\\DealWithFile.cs",
+              "RelativeToolTip": "Generator\\Model\\DealWithFile.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T16:42:51.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuestionsCollection.cs",
+              "DocumentMoniker": "C:\\Users\\szmok\\source\\repos\\Generator\\Generator\\Model\\QuestionsCollection.cs",
+              "RelativeDocumentMoniker": "Generator\\Model\\QuestionsCollection.cs",
+              "ToolTip": "C:\\Users\\szmok\\source\\repos\\Generator\\Generator\\Model\\QuestionsCollection.cs",
+              "RelativeToolTip": "Generator\\Model\\QuestionsCollection.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T09:15:53.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\szmok\\source\\repos\\Generator\\Generator\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "Generator\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\szmok\\source\\repos\\Generator\\Generator\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "Generator\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:13:52.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\szmok\\source\\repos\\Generator\\Generator\\ViewModel\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "Generator\\ViewModel\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\szmok\\source\\repos\\Generator\\Generator\\ViewModel\\BaseViewModel.cs",
+              "RelativeToolTip": "Generator\\ViewModel\\BaseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T06:32:58.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CezarEncryption.cs",
+              "DocumentMoniker": "C:\\Users\\szmok\\source\\repos\\Generator\\Generator\\Model\\CezarEncryption.cs",
+              "RelativeDocumentMoniker": "Generator\\Model\\CezarEncryption.cs",
+              "ToolTip": "C:\\Users\\szmok\\source\\repos\\Generator\\Generator\\Model\\CezarEncryption.cs",
+              "RelativeToolTip": "Generator\\Model\\CezarEncryption.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T06:18:16.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateQuizWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\szmok\\source\\repos\\Generator\\Generator\\View\\CreateQuizWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Generator\\View\\CreateQuizWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\szmok\\source\\repos\\Generator\\Generator\\View\\CreateQuizWindow.xaml.cs",
+              "RelativeToolTip": "Generator\\View\\CreateQuizWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:18:53.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChooseQuizWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\szmok\\source\\repos\\Generator\\Generator\\View\\ChooseQuizWindow.xaml",
+              "RelativeDocumentMoniker": "Generator\\View\\ChooseQuizWindow.xaml",
+              "ToolTip": "C:\\Users\\szmok\\source\\repos\\Generator\\Generator\\View\\ChooseQuizWindow.xaml",
+              "RelativeToolTip": "Generator\\View\\ChooseQuizWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-09T06:26:58.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateQuizWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\szmok\\source\\repos\\Generator\\Generator\\View\\CreateQuizWindow.xaml",
+              "RelativeDocumentMoniker": "Generator\\View\\CreateQuizWindow.xaml",
+              "ToolTip": "C:\\Users\\szmok\\source\\repos\\Generator\\Generator\\View\\CreateQuizWindow.xaml",
+              "RelativeToolTip": "Generator\\View\\CreateQuizWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-07T15:14:23.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChooseQuizWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\szmok\\source\\repos\\Generator\\Generator\\View\\ChooseQuizWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Generator\\View\\ChooseQuizWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\szmok\\source\\repos\\Generator\\Generator\\View\\ChooseQuizWindow.xaml.cs",
+              "RelativeToolTip": "Generator\\View\\ChooseQuizWindow.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T06:57:43.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\szmok\\source\\repos\\Generator\\Generator\\ViewModel\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Generator\\ViewModel\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\szmok\\source\\repos\\Generator\\Generator\\ViewModel\\RelayCommand.cs",
+              "RelativeToolTip": "Generator\\ViewModel\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:23:52.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\szmok\\source\\repos\\Generator\\Generator\\View\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Generator\\View\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\szmok\\source\\repos\\Generator\\Generator\\View\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Generator\\View\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:03:50.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\szmok\\source\\repos\\Generator\\Generator\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Generator\\View\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\szmok\\source\\repos\\Generator\\Generator\\View\\MainWindow.xaml",
+              "RelativeToolTip": "Generator\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-07T14:29:38.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IEncryption.cs",
+              "DocumentMoniker": "C:\\Users\\szmok\\source\\repos\\Generator\\Generator\\Model\\IEncryption.cs",
+              "RelativeDocumentMoniker": "Generator\\Model\\IEncryption.cs",
+              "ToolTip": "C:\\Users\\szmok\\source\\repos\\Generator\\Generator\\Model\\IEncryption.cs",
+              "RelativeToolTip": "Generator\\Model\\IEncryption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T06:21:27.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Quiz.cs",
+              "DocumentMoniker": "C:\\Users\\szmok\\source\\repos\\Generator\\Generator\\Model\\Quiz.cs",
+              "RelativeDocumentMoniker": "Generator\\Model\\Quiz.cs",
+              "ToolTip": "C:\\Users\\szmok\\source\\repos\\Generator\\Generator\\Model\\Quiz.cs",
+              "RelativeToolTip": "Generator\\Model\\Quiz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T17:01:35.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Generator.csproj",
+              "DocumentMoniker": "C:\\Users\\szmok\\source\\repos\\Generator\\Generator\\Generator.csproj",
+              "RelativeDocumentMoniker": "Generator\\Generator.csproj",
+              "ToolTip": "C:\\Users\\szmok\\source\\repos\\Generator\\Generator\\Generator.csproj",
+              "RelativeToolTip": "Generator\\Generator.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-07T14:06:03.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\szmok\\source\\repos\\Generator\\Generator\\App.xaml",
+              "RelativeDocumentMoniker": "Generator\\App.xaml",
+              "ToolTip": "C:\\Users\\szmok\\source\\repos\\Generator\\Generator\\App.xaml",
+              "RelativeToolTip": "Generator\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-07T14:12:55.239Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
